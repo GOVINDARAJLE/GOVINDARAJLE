@@ -16,7 +16,7 @@
 <br />
 <br/>
 
-
+![Image of Yaktocat](image/programming.png)
 ----
 
 ### 📺 Latest YouTube Videos
