@@ -28,6 +28,7 @@
 - [#android studio  How to add two numbers in android studio Tutorial -#2](https://www.youtube.com/watch?v=vyTSO0mE8vo)
 <!-- YOUTUBE:END -->
 ---
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -37,25 +38,18 @@
 
 </details>
 
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="GOVINDA RAJLE Github Stats" src="https://github-readme-stats-phi-eight.vercel.app/api?username=GOVINDARAJLE&show_icons=true&hide_border=true" />
-
-</details>
-
-
-
-
-
-
-
-
+  
 
 <a href="https://github.com/GOVINDARAJLE/">
-<img align="left" alt="GOVINDARAJLE Github Stats" src="https://github-readme-stats.vercel.app/api?username=GOVINDARAJLE&show_icons=true&hide_border=true" />
+  <img align="left" alt="GOVINDA RAJLE Github Stats" src="https://github-readme-stats-phi-eight.vercel.app/api?username=GOVINDARAJLE&show_icons=true&hide_border=true" />
+
 </a>
+
+
+
+
+
+
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GOVINDARAJLE&hide=javascript,html)](https://github.com/GOVINDARAJLE/github-readme-stats)
