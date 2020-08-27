@@ -28,6 +28,7 @@
 - [#android studio  How to add two numbers in android studio Tutorial -#2](https://www.youtube.com/watch?v=vyTSO0mE8vo)
 <!-- YOUTUBE:END -->
 ---
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -36,7 +37,6 @@
 <!--END_SECTION:activity-->
 
 </details>
-
 
 <details>
   <summary>:zap: Github Stats</summary>
