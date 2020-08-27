@@ -38,6 +38,21 @@
 </details>
 
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="GOVINDA RAJLE Github Stats" src="https://github-readme-stats-phi-eight.vercel.app/api?username=GOVINDARAJLE&show_icons=true&hide_border=true" />
+
+</details>
+
+
+
+
+
+
+
+
+
 <a href="https://github.com/GOVINDARAJLE/">
 <img align="left" alt="GOVINDARAJLE Github Stats" src="https://github-readme-stats.vercel.app/api?username=GOVINDARAJLE&show_icons=true&hide_border=true" />
 </a>
