@@ -29,15 +29,11 @@
 <!-- YOUTUBE:END -->
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
-</details>
-
   
 
 <a href="https://github.com/GOVINDARAJLE/">
