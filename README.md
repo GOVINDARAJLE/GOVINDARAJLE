@@ -16,7 +16,12 @@
 <br />
 <br/>
 
-----
+[![Youtube Badge](https://img.shields.io/badge/youtube-e60b0b?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjcLYXHhE7y2a2v3QLawlsw)
+[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GOVINDARAJLE/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govinda-rajle-1b9829178)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajle_govinda?s=09)
+[![Instagram Badge](https://img.shields.io/badge/instagram-6512c4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1kpjjp14owdgu&utm_content=5j0nzg8)
+<br/>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START-->
