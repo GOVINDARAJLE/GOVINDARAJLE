@@ -15,8 +15,9 @@
 [<img align="left" alt="codeplay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/invites/contact/?i=1kpjjp14owdgu&utm_content=5j0nzg8)
 <br />
 <br/>
-
-
+![Twitter Follow](https://img.shields.io/twitter/follow/GOVINDARAJLE?color=blue&label=Follow&logo=github&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/GOVINDARAJLE?label=Followers&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/rajle_govinda?color=blue&label=Follow&logo=twitter&style=for-the-badge)
 ----
 
 ### 📺 Latest YouTube Videos
