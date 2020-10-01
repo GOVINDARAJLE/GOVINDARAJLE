@@ -1,4 +1,4 @@
-### Hi there, I'm GOVINDA RAJLE <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">
+### Hi there, I'm GOVINDA RAJLE <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px">
 ## 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
