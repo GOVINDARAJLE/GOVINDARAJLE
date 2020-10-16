@@ -36,7 +36,13 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 - [#android studio  How to add two numbers in android studio Tutorial -#2](https://www.youtube.com/watch?v=vyTSO0mE8vo)
 <!-- YOUTUBE:END -->
 ---
+### 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
