@@ -39,7 +39,7 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Hacktoberfest 2020 contributions](https://dev.to/govindarajle/hacktoberfest-2idm)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
