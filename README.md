@@ -52,6 +52,14 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 
 
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
 
 
 
