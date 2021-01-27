@@ -57,12 +57,4 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 </a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOVINDARAJLE&layout=compact" alt="Govinda Rajle" /></p>
 
----
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
----
