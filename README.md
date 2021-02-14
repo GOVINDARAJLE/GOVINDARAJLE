@@ -39,6 +39,7 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setup for a Flutter Development](https://dev.to/govindarajle/setup-for-a-flutter-development-1ihk)
 - [Build Your first React app](https://dev.to/govindarajle/build-your-first-react-app-34go)
 - [Hacktoberfest 2020 contributions](https://dev.to/govindarajle/hacktoberfest-2idm)
 <!-- BLOG-POST-LIST:END -->
