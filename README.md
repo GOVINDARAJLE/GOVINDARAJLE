@@ -39,7 +39,8 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Data Scientist Skills](https://dev.to/govindarajle/10-data-scientist-skills-4bfd)
+- [Create your own apis from Google sheet](https://dev.to/govindarajle/create-your-own-apis-from-google-sheet-3pmp)
+- [10 Data Scientist Skills to get hired](https://dev.to/govindarajle/10-data-scientist-skills-4bfd)
 - [Setup for a Flutter Development](https://dev.to/govindarajle/setup-for-a-flutter-development-1ihk)
 - [Build Your first React app](https://dev.to/govindarajle/build-your-first-react-app-34go)
 - [Hacktoberfest 2020 contributions](https://dev.to/govindarajle/hacktoberfest-2idm)
