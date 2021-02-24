@@ -47,7 +47,6 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/govindarajle)
-### :zap: Recent Activity
 ---
 
 <a href="https://github.com/GOVINDARAJLE/">
