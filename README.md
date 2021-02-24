@@ -45,7 +45,7 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 - [Build Your first React app](https://dev.to/govindarajle/build-your-first-react-app-34go)
 - [Hacktoberfest 2020 contributions](https://dev.to/govindarajle/hacktoberfest-2idm)
 <!-- BLOG-POST-LIST:END -->
-
+---
 ➡️ [more blog posts...](https://codestackr.com)
 ### :zap: Recent Activity
 
