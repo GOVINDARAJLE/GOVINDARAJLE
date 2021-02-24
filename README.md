@@ -45,14 +45,10 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 - [Build Your first React app](https://dev.to/govindarajle/build-your-first-react-app-34go)
 - [Hacktoberfest 2020 contributions](https://dev.to/govindarajle/hacktoberfest-2idm)
 <!-- BLOG-POST-LIST:END -->
----
-➡️ [more blog posts...](https://codestackr.com)
+
+➡️ [more blog posts...](https://dev.to/govindarajle)
 ### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-  
+---
 
 <a href="https://github.com/GOVINDARAJLE/">
   <img align="left" alt="GOVINDA RAJLE Github Stats" src="https://github-readme-stats-phi-eight.vercel.app/api?username=GOVINDARAJLE&show_icons=true&hide_border=true" />
