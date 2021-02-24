@@ -47,11 +47,11 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/govindarajle)
+
 ---
 
 <a href="https://github.com/GOVINDARAJLE/">
   <img align="left" alt="GOVINDA RAJLE Github Stats" src="https://github-readme-stats-phi-eight.vercel.app/api?username=GOVINDARAJLE&show_icons=true&hide_border=true" />
-
 </a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOVINDARAJLE&layout=compact" alt="Govinda Rajle" /></p>
 
