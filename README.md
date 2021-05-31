@@ -22,8 +22,7 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GOVINDARAJLE/)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govinda-rajle-1b9829178)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajle_govinda?s=09)
-[![Instagram Badge](https://img.shields.io/badge/instagram-6512c4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1kpjjp14owdgu&utm_content=5j0nzg8)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GOVINDARAJLE" alt="Govinda Rajle" /> </p>
+
 
 
 ---
