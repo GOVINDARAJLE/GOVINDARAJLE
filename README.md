@@ -61,5 +61,6 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
-
+- [Need to Know](https://medium.com/@rajle22govinda/need-to-know-6f7c0c4dde6a?source=rss-e1d2267412bd------2)
+- [Untitled](https://medium.com/@rajle22govinda/untitled-51446af41b7e?source=rss-e1d2267412bd------2)
 <!-- MEDIUM-STORY-LIST:END -->
