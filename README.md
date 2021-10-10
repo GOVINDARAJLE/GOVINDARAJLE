@@ -58,3 +58,6 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOVINDARAJLE&layout=compact" alt="Govinda Rajle" /></p>
 
 [![ github activity graph](https://activity-graph.herokuapp.com/graph?username=GOVINDARAJLE)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rajle22govinda/0"></a>
