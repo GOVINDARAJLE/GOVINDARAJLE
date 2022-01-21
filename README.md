@@ -55,6 +55,7 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [We Need To Know Session Hijacking](https://rajlegovinda.medium.com/we-need-to-know-session-hijacking-dcaf45c872fc?source=rss-e1d2267412bd------2)
 - [Types Of Man-In-The-Middle Attacks](https://rajlegovinda.medium.com/types-of-man-in-the-middle-attacks-3442989f36e4?source=rss-e1d2267412bd------2)
 - [Configuration of Central logging server with rsyslog](https://rajlegovinda.medium.com/configuration-of-central-logging-server-with-rsyslog-cd1ba5bbcb61?source=rss-e1d2267412bd------2)
 - [The Linux Booting Process](https://rajlegovinda.medium.com/the-linux-booting-process-468e5cf06efc?source=rss-e1d2267412bd------2)
