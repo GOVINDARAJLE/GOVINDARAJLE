@@ -1,8 +1,8 @@
 ### Hi there, I'm GOVINDA RAJLE <img src="https://github.com/thomasbnt/thomasbnt/blob/me/assets/hi.gif" width="25px">
 ## 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Contribute more to Open Source projects ,Learn more and share with others
+- 👯 I’m looking for Penetration Testing and Auditing 
 - ⚡ Fun fact: I love to play games /stream games
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/govinda-rajle-1b9829178)
 
