@@ -6,6 +6,9 @@
 - ⚡ Fun fact: I love to play games /stream games
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/govinda-rajle-1b9829178)
 
+### TryHackMe
+<img src="https://tryhackme-badges.s3.amazonaws.com/blackpanther00.png" alt="TryHackMe">
+
 
 ### Connect with me:
 [<img align="left" alt="http://codeplay.epizy.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://codeplay.epizy.com/)
